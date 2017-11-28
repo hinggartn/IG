@@ -11,7 +11,7 @@ const _ = require('lodash');
 
 const User = {
     username: 'hinggar_trusthi', // Your Username Instagram
-    password: 'vvvvvv', // Your Password Instagram
+    password: 'Kulonprogo16', // Your Password Instagram
 }
 
 const doLogin = async function(User){
